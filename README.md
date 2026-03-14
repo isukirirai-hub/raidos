@@ -2,7 +2,7 @@
 
 > A living open-world text adventure.  
 > AI runs 100% in the visitor's browser — no API key, no server, no account.  
-> Powered by WebLLM + Phi-3.5 Mini.
+> Powered by WebLLM + Broswer Ai 
 
 ---
 
